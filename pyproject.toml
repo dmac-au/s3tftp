@@ -1,0 +1,7 @@
+[project]
+name = "s3tftp"
+version = "0.1.0"
+description = "Access an S3 filestorage via tftp"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
